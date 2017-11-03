@@ -1,0 +1,70 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{48, 19}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "name_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "CEBA40D8-B4A1-41A2-BD9C-6FCB06B9DD60",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Justin Bronson",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{48, 59}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "city_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "B1957F55-D16B-460E-9714-B43AE90864A9",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ottawa",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{48, 99}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "province_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "8039EDD9-4230-4EAD-9BB8-B3E8D6387DBA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ontario",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
